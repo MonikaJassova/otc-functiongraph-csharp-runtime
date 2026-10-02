@@ -206,6 +206,8 @@ Upload the image to SWR either using **shell commands** or the Makefile target *
 Step 4: Terraform Deployment
 -----------------------------------------------------------------------------
 
+For the configuration needed for Terraform deployment, see :ref:`ref_terraform_setup`.
+
 To deploy the function (including a test event) using Terraform adapt the MakefileTF and
 the Terraform configuration files in the sample folder according to your needs
 and execute the following commands in the project root folder:
